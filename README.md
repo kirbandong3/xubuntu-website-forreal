@@ -9,4 +9,5 @@
 </body>
 </head>
 </html>
-  
+  <h1>The frist step in to loving your dog is knownig what kind of dog it is.</h1>
+  <p> There are thousands of types of dogs throughout the world, you have the 100% breed pitbull but sometimes we have a mix of another such a labrador 
