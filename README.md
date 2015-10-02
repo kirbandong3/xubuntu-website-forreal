@@ -2,7 +2,7 @@
 <html> 
 <head>
   <title>
-    <center>Welcome to the Xubuntu website!</center>
+    Welcome to the Xubuntu website!
   </title>
 <body>
 <p>
