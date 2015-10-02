@@ -5,9 +5,12 @@
     Welcome to the Xubuntu website!
   </title>
 <body>
+<p>
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDulIJWAR8gsUTkwV9JLyTPjzI51umMGnFD5GDVEUYylX9P2z9"</img>
+</p>
   <p>Our members include Jordan Chang, Matthew Kim, Andre Barnes, Karthik Puravant, Lennie Gonsalves, Mojo, Matthew Wong, Kirstiana Bandong, and we love dogs!</p>
 </body>
 </head>
 </html>
-  <h1>The first step in to loving your dog is knowing what kind of dog it is.</h1>
-  <p> There are thousands of types of dogs throughout the world, such as a 100% breed pitbull or a mixed labrador with different breeds mixed inside.</h>
+  
