@@ -13,7 +13,7 @@
 </body>
 </head>
 </html>
-  <h1> Why are dogs so lovesable
+  <h1> Why are dogs so loveable? </h1>
     <p> Dogs are man's bestfriend, i bet you never heard that one before.</p>
     <p> Dogs are good company and are very loyal.</p>
     <p> Dogs are energetic and playful.</p>
