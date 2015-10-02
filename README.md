@@ -2,7 +2,7 @@
 <html> 
 <head>
   <title>
-    Welcome to the Xubuntu website!
+    <center>Welcome to the Xubuntu website!</center>
   </title>
 <body>
 <p>
@@ -13,8 +13,4 @@
 </body>
 </head>
 </html>
-  <h1> Why are dogs so loveable? </h1>
-    <p> Dogs are man's bestfriend, i bet you never heard that one before.</p>
-    <p> Dogs are good company and are very loyal.</p>
-    <p> Dogs are energetic and playful.</p>
-    <p> Dogs are very smart and can understand what we are feeling </p>
+  
