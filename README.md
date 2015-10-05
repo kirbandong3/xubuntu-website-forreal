@@ -8,7 +8,7 @@
 <p>
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDulIJWAR8gsUTkwV9JLyTPjzI51umMGnFD5GDVEUYylX9P2z9"</img>
-<img src=http://www.yesvegetarian.com/wp-content/uploads/2014/11/Funny-cute-dog.jpg"</img>
+<img src="http://www.yesvegetarian.com/wp-content/uploads/2014/11/Funny-cute-dog.jpg"</img>
 <img src="http://cdn.cutestpaw.com/wp-content/uploads/2011/11/cute-dog1.jpg"</img>
 </p>
 
