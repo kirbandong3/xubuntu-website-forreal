@@ -4,7 +4,7 @@
   <title>
     Welcome to the Xubuntu website!
   </title>
-<body background="https://pbs.twimg.com/media/B3I1pVPCMAAd1b-.jpg:large">
+<body background="https://c2.staticflickr.com/8/7375/14177453364_a3442dfa70.jpg">
 <p>
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDulIJWAR8gsUTkwV9JLyTPjzI51umMGnFD5GDVEUYylX9P2z9"</img>
