@@ -7,7 +7,7 @@
 <body background="https://c2.staticflickr.com/8/7375/14177453364_a3442dfa70.jpg">
 <p>
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDulIJWAR8gsUTkwV9JLyTPjzI51umMGnFD5GDVEUYylX9P2z9"</img>
+<img src="http://slappedham.com/wp-content/uploads/2014/06/Boo-The-Dog1.jpg"</img>
 </p>
 
   <p>Our members include Jordan Chang, Matthew Kim, Andre Barnes, Karthik Puravant, Lennie Gonsalves, Mojo, Matthew Wong, Kirstiana Bandong, and we love dogs!</p>
