@@ -1,16 +1,16 @@
 # xubuntu-website-forreal
 <html> 
 <head>
-  <h1>
-    Welcome to the Xubuntu website!
-  </h1>
+  <title>
+    <h2>Welcome to the Xubuntu website!</h2>
+  </title>
 <body background="https://c2.staticflickr.com/8/7375/14177453364_a3442dfa70.jpg">
 <p>
 
 <img src="http://slappedham.com/wp-content/uploads/2014/06/Boo-The-Dog1.jpg"</img>
 </p>
 
-  <p>Our members include Jordan Chang, Matthew Kim, Andre Barnes, Karthik Puravant, Lennie Gonsalves, Mojo, Matthew Wong, Kirstiana Bandong, and we love dogs!</p>
+  <h1>Our members include Jordan Chang, Matthew Kim, Andre Barnes, Karthik Puravant, Lennie Gonsalves, Mojo, Matthew Wong, Kirstiana Bandong, and we love dogs!</h1>
 </body>
 </head>
 </html>
