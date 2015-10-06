@@ -20,7 +20,7 @@
 <ul>
 <lh> WHY WE LOVE DOGS!</lh>
 <li> cute</li>
-<img src="http://cdn.playbuzz.com/cdn/7820ec56-cd7d-487c-87ba-30ca87219dc4/26084bf6-4235-4f8f-9c2f-b7294ea62c15.jpg">
+<img src="http://canineplanet.net/wp-content/uploads/2014/08/cute-dog-2014-08-22.jpg">
 <li> cuddly</li>
 <img src="https://cdn.psychologytoday.com/files/u236/golden-retriever-puppies.jpg">
 <li> friendly </li>
