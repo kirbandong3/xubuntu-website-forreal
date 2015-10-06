@@ -23,7 +23,12 @@
 <li> cuddly</li>
 <li> friendly </li>
 <li> playful </li>
+
 <ol> 
-<lh> TOP 10 DOG NAMES!</lh>
+<lh>TOP 10 DOG NAMES!</lh>
+<li>Bailey</li>
+<li>Max</li>
+<li>Bella</li>
+<li>Lucy</li>
 
 
