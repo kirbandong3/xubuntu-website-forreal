@@ -32,5 +32,9 @@
 <li>Lucy</li>
 <li>Rocky</li>
 <li>Buddy</li>
-<li>Daisy<li>
+<li>Daisy</li>
+<li>Buster</li>
+<li>Sophie</li>
+<li>Sadie</li>
+
 
