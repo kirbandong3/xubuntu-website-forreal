@@ -20,9 +20,13 @@
 <ul>
 <lh> WHY WE LOVE DOGS!</lh>
 <li> cute</li>
+<img src="http://vignette4.wikia.nocookie.net/lotrminecraftmod/images/3/32/Cute-Dog-dogs-13286656-1024-768.jpg/revision/latest?cb=20150222011858">
 <li> cuddly</li>
+<img src="https://cdn.psychologytoday.com/files/u236/golden-retriever-puppies.jpg">
 <li> friendly </li>
+<img src="http://files.mom.me/photos/2012/10/12/6-21710-top-10-family-friendly-dogs10c-1350065901.jpg">
 <li> playful </li>
+<img src="http://www.canidae.com/blog/wp-content/uploads/2014/03/playful-dog-Taro.jpg">
 
 <ol> 
 <lh>TOP 10 DOG NAMES!</lh>
@@ -36,7 +40,5 @@
 <li>Buster</li>
 <li>Sophie</li>
 <li>Sadie</li>
-</ol>
-
 
 
