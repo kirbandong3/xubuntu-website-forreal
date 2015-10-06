@@ -30,5 +30,7 @@
 <li>Max</li>
 <li>Bella</li>
 <li>Lucy</li>
-
+<li>Rocky</li>
+<li>Buddy</li>
+<li>Daisy<li>
 
