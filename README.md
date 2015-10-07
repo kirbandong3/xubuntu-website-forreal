@@ -43,7 +43,7 @@
 </ol>
 
 <ol>
-<lh> Top 5 Dog Breeds</lh>
+<lh> Top 5 Dog Breeds:)</lh>
 <li>Labrador Retriever</li>
 <li>German Shepherd</li>
 <li>Golden Retriever</li>
