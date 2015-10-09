@@ -18,7 +18,7 @@
 <p> Dogs are beautiful and majestic creatures. They are like us, created by God. In fact, god spelled backwards is dog.  we share a common similarity, we are loyal to one another. Dogs show a great sign of loyalty and of course treated and raised correctly they will no doubt become your best friend. They understand how we are feeling and are emphathetic and read our emotions. They will cheer us up with their company and make us active. Dogs provide us with someone to talk to, go on walks with and play catch with. Not only do we love dogs but we love the fact that they make us responsible to them as they are dependent on us making us feel like we are important to them, like a parent </p>
 <img src="http://1.bp.blogspot.com/-O_PiJlZN0T4/Ucq2pDZU4gI/AAAAAAAAAGc/EcmVOilKIWE/s1600/cute+husky+puppies.jpg"> 
 <ul>
-<lh> WHY WE LOVE DOGS!</lh>
+<lh>SOME REASONS WHY WE LOVE DOGS!</lh>
 <li> cute</li>
 <img src="http://canineplanet.net/wp-content/uploads/2014/08/cute-dog-2014-08-22.jpg">
 <li> cuddly</li>
