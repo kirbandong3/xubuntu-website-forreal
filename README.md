@@ -39,7 +39,7 @@
 <li>Daisy</li>
 <li>Buster</li>
 <li>Sophy</li>
-<li>Sadie</li>
+<li>Sady</li>
 </ol>
 
 <ol>
