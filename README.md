@@ -2,7 +2,7 @@
 <html> 
 <head>
   <title>
-    Welcome to our Xubuntu website!
+    Welcome to the Xubuntu website!
   </title>
 <body background="https://c2.staticflickr.com/8/7375/14177453364_a3442dfa70.jpg">
 <p>
