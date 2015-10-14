@@ -38,7 +38,7 @@
 <li>Buddy</li>
 <li>Daisy</li>
 <li>Buster</li>
-<li>Sophy</li>
+<li>Sophie</li>
 <li>Sady</li>
 </ol>
 
